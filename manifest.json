@@ -1,0 +1,98 @@
+[
+ {
+  "file": "JC-202605-citibike-tripdata.csv.zip",
+  "bytes": 3446290,
+  "sha256": "cf1c2ce5430eb58b45df545ac4981d2c78f6ff154b40dc0167408cb31dcbb136",
+  "trips": 95350,
+  "first_start": "2026-04-30",
+  "last_start": "2026-05-31"
+ },
+ {
+  "file": "202605-citibike-tripdata.zip",
+  "bytes": 916981226,
+  "sha256": "b9461221fb7ce806d5274b046b4de46414a1d1116ba2bc46c6a870b7bda71adf",
+  "trips": 4694878,
+  "first_start": "2026-04-30",
+  "last_start": "2026-05-31"
+ },
+ {
+  "file": "JC-202606-citibike-tripdata.csv.zip",
+  "bytes": 3703598,
+  "sha256": "db9ef503532e30edfef457553a827d7485e2c9442ec131a538ae75f8d464322d",
+  "trips": 109897,
+  "first_start": "2026-05-31",
+  "last_start": "2026-06-30"
+ },
+ {
+  "file": "202606-citibike-tripdata.zip",
+  "bytes": 1051241498,
+  "sha256": "4ba77e6422cee141041638f988281c13e5ebf72bd9e5ab89638eb5d7d3763f60",
+  "trips": 5384468,
+  "first_start": "2026-05-30",
+  "last_start": "2026-06-30"
+ },
+ {
+  "file": "JC-202607-citibike-tripdata.csv.zip",
+  "bytes": 3878108,
+  "sha256": "13618a51bb41cb20cf88796282fc9e2355e16d41aac534eb26ade90ed0707aad",
+  "trips": 109095,
+  "first_start": "2026-06-30",
+  "last_start": "2026-07-31"
+ },
+ {
+  "file": "202607-citibike-tripdata.zip",
+  "bytes": 974302094,
+  "sha256": "9aeb4f2a1744ce4a81ab5a2bc999bb3e7794fc0a010415e64aeb80283a0c21c0",
+  "trips": 4993137,
+  "first_start": "2026-06-30",
+  "last_start": "2026-07-31"
+ },
+ {
+  "file": "JC-202608-citibike-tripdata.csv.zip",
+  "bytes": 3994745,
+  "sha256": "74cbe35022888397e3ad4635188117ba594f80c55dda49f9701e73b5de81f108",
+  "trips": 111227,
+  "first_start": "2026-07-31",
+  "last_start": "2026-08-31"
+ },
+ {
+  "file": "202608-citibike-tripdata.zip",
+  "bytes": 1024034405,
+  "sha256": "048ecc43853b2c3a8855a3ed22b177fd110318e3df9478b4b6d018e960215610",
+  "trips": 5246236,
+  "first_start": "2026-07-31",
+  "last_start": "2026-08-31"
+ },
+ {
+  "file": "JC-202609-citibike-tripdata.csv.zip",
+  "bytes": 3713499,
+  "sha256": "d04ae5e667fba05b1a9bd7dafd95d85afab21a8069bed9b35ac5867469fc9414",
+  "trips": 106628,
+  "first_start": "2026-08-31",
+  "last_start": "2026-09-30"
+ },
+ {
+  "file": "202609-citibike-tripdata.zip",
+  "bytes": 972151835,
+  "sha256": "81b5d756665ef7a69cc5189349511fb7ec973fcf20ab6ca7078732cb7e50537c",
+  "trips": 4982855,
+  "first_start": "2026-08-31",
+  "last_start": "2026-09-30"
+ },
+ {
+  "file": "202610-citibike-tripdata.zip",
+  "bytes": 314905579,
+  "sha256": "756793b1b6057a3c19ee44e85bf1d271b07866d89886483210d6ceb990a0191c",
+  "trips": 5088365,
+  "first_start": "2026-10-01",
+  "last_start": "2026-10-31"
+ },
+ {
+  "file": "JC-202610-citibike-tripdata.zip",
+  "bytes": 4599971,
+  "sha256": "668a9611988a08b157be9efabd1deccdabbe9c194159cfc3ba17d37b3973bc47",
+  "trips": 111446,
+  "first_start": "2026-10-01",
+  "last_start": "2026-10-31"
+ }
+]
